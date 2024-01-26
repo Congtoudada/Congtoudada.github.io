@@ -1,0 +1,28 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ZeroFramework
+  name: ZeroFramework
+  href: api/ZeroFramework.html
+  commentId: N:ZeroFramework
+  fullName: ZeroFramework
+  nameWithType: ZeroFramework
+- uid: ZeroFramework.DocfxTest
+  name: DocfxTest
+  href: api/ZeroFramework.DocfxTest.html
+  commentId: T:ZeroFramework.DocfxTest
+  fullName: ZeroFramework.DocfxTest
+  nameWithType: DocfxTest
+- uid: ZeroFramework.DocfxTest.Print
+  name: Print()
+  href: api/ZeroFramework.DocfxTest.html#ZeroFramework_DocfxTest_Print
+  commentId: M:ZeroFramework.DocfxTest.Print
+  fullName: ZeroFramework.DocfxTest.Print()
+  nameWithType: DocfxTest.Print()
+- uid: ZeroFramework.DocfxTest.Print*
+  name: Print
+  href: api/ZeroFramework.DocfxTest.html#ZeroFramework_DocfxTest_Print_
+  commentId: Overload:ZeroFramework.DocfxTest.Print
+  isSpec: "True"
+  fullName: ZeroFramework.DocfxTest.Print
+  nameWithType: DocfxTest.Print
